@@ -1,2 +1,4 @@
 # hello-world
-Practice GitHub Guides
+Practice GitHub Guides;
+
+This is Pulipan making an app of Android;
